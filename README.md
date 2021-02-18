@@ -1,4 +1,4 @@
-# Elemental Battles Tutorial Lessons
+# Amontes Elemental Battles Tutorial Lessons
 
 The Elemental Battles Tutorial is divided into easy to follow lessons that take you through the process of creating your own fully-functional blockchain-based dApp.
 
